@@ -1,0 +1,6 @@
+Главный программист: Колчанов Алексей
+Менеджер: Тюняков Виктор
+
+Умею: создавать таблицы в MS Access, писать SQL-запросы, разбирать по строчкам чужой код, рисовать красивые UML-диаграммы, оформлять титульные листы
+Хотела бы научиться: VBA, DjangoGirls-development, Node.js, Python, ANGULAR, TypeScript
+Хочу делать: (Front-end & Back-end under Alexey Kolchanov guide) OR (Angular VS Python);
