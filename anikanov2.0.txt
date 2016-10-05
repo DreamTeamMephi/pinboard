@@ -1,0 +1,6 @@
+﻿Главный программист: Arthur Chewbarov
+Менеджер: Виктор Тюняков
+
+Умею: Java , ...
+Хотел бы научиться: многому
+Хочу делать: back-end, front-end, mobiledev, desktopdev, etc.
