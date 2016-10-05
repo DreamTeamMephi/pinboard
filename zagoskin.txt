@@ -1,0 +1,6 @@
+Главный программист: Алексей Колчанов
+Менеджер: Тюняков Виктор
+
+Умею: java(jdbc, stax, swing), sql(firebird)
+Хотел бы научиться: spring, hibernate, postgresql, python
+Хочу делать: back-end
