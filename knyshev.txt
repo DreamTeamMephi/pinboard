@@ -1,0 +1,5 @@
+Главный программист: Виктор Тюняков
+Менеджер: Андрей Алёшин
+
+Умею: c++, lua, golang, docker, CI, agile, cassandra, tarantool, postgres, cloud microservices, qt5, devops
+Хочу: backend

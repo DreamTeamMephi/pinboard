@@ -1,0 +1,6 @@
+Главный программист: Виктор Тюняков
+Главный манагер: Андрей Алёшин
+
+Умею: Node.js, js, java, MongoDB, Redis, MySQL, Выживание в тяжёлых условиях, English Conversational, AWS Stack (DynamoDB, S3, EC2), HTML5, CSS(не три, а какое-то древнее говно и только по справочникам)
+Хотел бы научиться: devops, получать деньги не работая, react, react native/phonegap/cordova
+Хочу делать: backend, desktop
